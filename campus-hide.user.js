@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         RWTH CAMPUS: Hide unused links from sidebar
-// @namespace    https://github.com/Itja/campus-hide/blob/master/campus-hide.user.js
+// @namespace    https://github.com/Itja/campus-hide/raw/master/campus-hide.user.js
 // @version      0.1
 // @description  There is a link to show everything that is hidden. Hides cateories: 'Adressen', 'Dokumente', 'Aufgaben', 'E-Mail', 'Papierkorb'. Hides links: 'Einstellungen', 'Abmelden', 'Hilfe', 'StOEHn', 'EvaSys', 'Fachbereiche', 'Prüfungsordnungen', 'Tagesansicht', 'Monatsansicht', 'Geburtstags', 'Urlaubs', 'Telefonnr.', 'Hochschulstatistik'
 // @author       Mitja Schmakeit
