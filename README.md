@@ -6,7 +6,7 @@ Hides mostly unused links from CAMPUS Office of the RWTH Aachen
 2. Go to [the script](https://github.com/Itja/campus-hide/raw/master/campus-hide.user.js) and should be presented with a Tampermonkey install site, where you can see that this script really only gets executed on www.campus.rwth-aachen.de.
 3. Install it and navigate to [CAMPUS](https://www.campus.rwth-aachen.de/office/). Done!
 
-## Hidden / Changed elements:
+## Hidden elements:
 
 ### Header
 The header with its only functions
@@ -36,6 +36,8 @@ is completely removed.
 * Urlaubsliste
 * Telefonnr. ändern
 * Hochschulstatistik
+
+## Changed elements
 
 ### (\*) Calendar
 The Monatsansicht and Tagesansicht are accessible via the Wochenansicht. Links are provided in the top center.
