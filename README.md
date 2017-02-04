@@ -7,18 +7,21 @@ Hides mostly unused links from CAMPUS Office of the RWTH Aachen
 3. Install it and navigate to [CAMPUS](https://www.campus.rwth-aachen.de/office/). Done!
 
 ## Hidden / Changed elements:
+
 ### Header
 The header with its only functions
 * Kurz gezeigt
 * Feedback
 * Hilfe
 is completely removed.
+
 ### Sidebar Headlines
 * Adressen
 * Dokumente
 * Aufgaben
 * E-Mail
 * Papierkorb
+
 ### Sidebar Menu Items
 * Einstellungen
 * Abmelden
