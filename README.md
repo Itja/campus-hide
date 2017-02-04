@@ -3,7 +3,7 @@ Hides mostly unused links from CAMPUS Office of the RWTH Aachen
 
 ## Installation
 1. To use this script, you need a browser extension like [Tampermonkey](https://tampermonkey.net/) (Maybe you remember Greasemonkey?), which is available for all well-used browsers.
-2. Go to [the script](https://github.com/Itja/campus-hide/raw/master/campus-hide.user.js) and should be presented with a Tampermonkey install site, where you can see that this script really only gets executed on www.campus.rwth-aachen.de.
+2. Go to [the script](https://github.com/Itja/campus-hide/raw/master/campus-hide.user.js) and you should be presented with a Tampermonkey install site, where you can see that this script really only gets executed on www.campus.rwth-aachen.de.
 3. Install it and navigate to [CAMPUS](https://www.campus.rwth-aachen.de/office/). Done!
 
 ## Hidden elements:
@@ -13,6 +13,7 @@ The header with its only functions
 * Kurz gezeigt
 * Feedback
 * Hilfe
+
 is completely removed.
 
 ### Sidebar Headlines
